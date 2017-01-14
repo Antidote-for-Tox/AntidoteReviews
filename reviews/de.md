@@ -1,12 +1,20 @@
-##Average stars: 5.0/5.0
+##Average stars: 4.33/5.0
 
 - ★★★★★ - 2
 - ★★★★☆ - 0
-- ★★★☆☆ - 0
+- ★★★☆☆ - 1
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###Macht einen guten Eindruck
+
+★★★☆☆ Issooleider, 2017-01-04
+
+```
+Was allerdings ein NoGo ist, dass im Hintergrund nach 10min keine Benachrichtigung unter IOS erfolgt.
+```
 
 ###sehr gut
 
