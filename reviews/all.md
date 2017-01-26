@@ -1,12 +1,21 @@
-##Average stars: 4.68/5.0
+##Average stars: 4.63/5.0
 
 - ★★★★★ - 20
-- ★★★★☆ - 2
+- ★★★★☆ - 4
 - ★★★☆☆ - 3
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###На троечку
+
+★★★★☆ Kosmo134, 2017-01-19, **RU**
+
+```
+Неплохая безопасность. 
+С передачей файлов явная проблема.
+```
 
 ###Macht einen guten Eindruck
 
@@ -116,37 +125,6 @@ Congratulations for submitting app to AppStore.
 
 ```
 Приложение из разряда "приятная неожиданность "! Голосовые звонки на высочайшем уровне-слышимость покруче чем у известных шмибера и гавнатцапа, все очень лаконично в чате и надеюсь защита от прослушки будет на высоте-всем советую!
-```
-
-###Private and Secure
-
-★★★★★ Dtacks, 2016-10-30, **GB**
-
-```
-Decentralized
-Private
-Secure
-No metadata 
-Clean UI 
-
-Features suggestions:
-offline messages
-integration with TOR services to protect IP/Location
-encrypt phone storage
-screen lock
-erase messages on sender and receiver
-self destructive messages (timer)
-delete individual messages
-edit sent messages
-erase/delete messages on sender and receiver
-message sent time
-links preview
-post/play soundcloud, youtube within message
-music update status
-channels # 
-dark mode
-voice notes
-calendar integration
 ```
 
 ###Плохая синхронизация
