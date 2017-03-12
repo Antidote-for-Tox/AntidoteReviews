@@ -1,12 +1,20 @@
-##Average stars: 4.6/5.0
+##Average stars: 4.67/5.0
 
-- ★★★★★ - 4
+- ★★★★★ - 5
 - ★★★★☆ - 0
 - ★★★☆☆ - 1
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###Super Chat App
+
+★★★★★ GilleMac, 2017-03-07
+
+```
+I like the fact that it is peer to peer and focused on security. I will keep on using it and see how it develops. Keep up the good work.
+```
 
 ###Macht einen guten Eindruck
 
