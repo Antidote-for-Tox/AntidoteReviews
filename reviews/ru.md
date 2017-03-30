@@ -1,12 +1,20 @@
-##Average stars: 4.42/5.0
+##Average stars: 4.46/5.0
 
-- ★★★★★ - 7
+- ★★★★★ - 8
 - ★★★★☆ - 3
 - ★★★☆☆ - 2
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###Good app for tox.
+
+★★★★★ Yuri Ph, 2017-03-28
+
+```
+Everything works in messaging and calling between iPhones. Thank you!
+```
 
 ###Нормально
 

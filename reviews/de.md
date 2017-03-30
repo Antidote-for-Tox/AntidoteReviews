@@ -1,12 +1,22 @@
-##Average stars: 4.67/5.0
+##Average stars: 4.71/5.0
 
-- ★★★★★ - 5
+- ★★★★★ - 6
 - ★★★★☆ - 0
 - ★★★☆☆ - 1
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###Great Work
+
+★★★★★ qwertzuiopü5, 2017-03-13
+
+```
+Great Work. Best App for secure messaging. 
++opensource
+Just waiting for groupchat :)
+```
 
 ###Super Chat App
 

@@ -1,12 +1,30 @@
-##Average stars: 4.66/5.0
+##Average stars: 4.68/5.0
 
-- ★★★★★ - 26
+- ★★★★★ - 28
 - ★★★★☆ - 6
 - ★★★☆☆ - 3
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###Good app for tox.
+
+★★★★★ Yuri Ph, 2017-03-28, **RU**
+
+```
+Everything works in messaging and calling between iPhones. Thank you!
+```
+
+###Great Work
+
+★★★★★ qwertzuiopü5, 2017-03-13, **DE**
+
+```
+Great Work. Best App for secure messaging. 
++opensource
+Just waiting for groupchat :)
+```
 
 ###Super Chat App
 
