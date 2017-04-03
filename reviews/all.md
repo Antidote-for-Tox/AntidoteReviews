@@ -1,12 +1,20 @@
 ##Average stars: 4.68/5.0
 
-- ★★★★★ - 28
+- ★★★★★ - 29
 - ★★★★☆ - 6
 - ★★★☆☆ - 3
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###Love it
+
+★★★★★ Mirosan H, 2017-04-03, **AU**
+
+```
+Ppl seriously need to get on board if privacy means anything to you. This proj is technically awesome
+```
 
 ###Good app for tox.
 
