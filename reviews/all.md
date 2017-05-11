@@ -1,12 +1,20 @@
-##Average stars: 4.68/5.0
+##Average stars: 4.69/5.0
 
-- ★★★★★ - 31
+- ★★★★★ - 32
 - ★★★★☆ - 7
 - ★★★☆☆ - 3
 - ★★☆☆☆ - 0
 - ★☆☆☆☆ - 0
 
 ---
+
+###Really good could be better
+
+★★★★★ Yuzhe Tian, 2017-05-09, **CN**
+
+```
+It would be better if the app has group chat function and could let the user modify bootstrap nodes.
+```
 
 ###Спасибо!
 
