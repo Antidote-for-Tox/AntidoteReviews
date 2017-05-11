@@ -1,4 +1,4 @@
-##Average stars: 4.63/5.0
+## Average stars: 4.63/5.0
 
 - ★★★★★ - 6
 - ★★★★☆ - 1
@@ -8,7 +8,7 @@
 
 ---
 
-###Great Work
+### Great Work
 
 ★★★★★ qwertzuiopü5, 2017-03-13
 
@@ -18,7 +18,7 @@ Great Work. Best App for secure messaging.
 Just waiting for groupchat :)
 ```
 
-###Super Chat App
+### Super Chat App
 
 ★★★★★ GilleMac, 2017-03-07
 
@@ -26,7 +26,7 @@ Just waiting for groupchat :)
 I like the fact that it is peer to peer and focused on security. I will keep on using it and see how it develops. Keep up the good work.
 ```
 
-###Macht einen guten Eindruck
+### Macht einen guten Eindruck
 
 ★★★☆☆ Issooleider, 2017-01-04
 
@@ -34,7 +34,7 @@ I like the fact that it is peer to peer and focused on security. I will keep on 
 Was allerdings ein NoGo ist, dass im Hintergrund nach 10min keine Benachrichtigung unter IOS erfolgt.
 ```
 
-###sehr gut
+### sehr gut
 
 ★★★★★ FormatML, 2016-11-12
 

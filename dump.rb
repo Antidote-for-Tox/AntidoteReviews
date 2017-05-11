@@ -5,7 +5,7 @@ require "fileutils"
 require "yaml"
 
 def format_review(review, add_language)
-    result = "###" + review["title"]
+    result = "### " + review["title"]
     result += "\n\n"
 
     rating = review["rating"]
@@ -53,7 +53,7 @@ def format_average(ratings, language)
         summary = ratings.rating_summary
     end
 
-    result = "##Average stars: " + summary.average_rating.to_s + "/5.0"
+    result = "## Average stars: " + summary.average_rating.to_s + "/5.0"
     result += "\n\n"
     result += "- ★★★★★ - " + summary.five_star_rating_count.to_s + "\n"
     result += "- ★★★★☆ - " + summary.four_star_rating_count.to_s + "\n"

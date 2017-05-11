@@ -1,4 +1,4 @@
-##Average stars: 4.0/5.0
+## Average stars: 4.0/5.0
 
 - ★★★★★ - 0
 - ★★★★☆ - 1
@@ -8,7 +8,7 @@
 
 ---
 
-###Private and Secure
+### Private and Secure
 
 ★★★★☆ Dtacks, 2017-01-26
 

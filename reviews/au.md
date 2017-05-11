@@ -1,4 +1,4 @@
-##Average stars: 5.0/5.0
+## Average stars: 5.0/5.0
 
 - ★★★★★ - 1
 - ★★★★☆ - 0
@@ -8,7 +8,7 @@
 
 ---
 
-###Love it
+### Love it
 
 ★★★★★ Mirosan H, 2017-04-03
 

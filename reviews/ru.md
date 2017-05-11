@@ -1,4 +1,4 @@
-##Average stars: 4.5/5.0
+## Average stars: 4.5/5.0
 
 - ★★★★★ - 9
 - ★★★★☆ - 3
@@ -8,7 +8,7 @@
 
 ---
 
-###Спасибо!
+### Спасибо!
 
 ★★★★★ N0013, 2017-05-05
 
@@ -16,7 +16,7 @@
 Спасибо, что тратите свое время и силы на развитие этого клиента для tox. Я Вам очень благодарен. Мне приятно пользовать этой программой. Она с каждым обновлением становиться все лучше, благодаря вашим стараниям.
 ```
 
-###Good app for tox.
+### Good app for tox.
 
 ★★★★★ Yuri Ph, 2017-03-28
 
@@ -24,7 +24,7 @@
 Everything works in messaging and calling between iPhones. Thank you!
 ```
 
-###Нормально
+### Нормально
 
 ★★★★☆ Winteriscoming23, 2017-02-14
 
@@ -32,7 +32,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Не слышно собеседника на antitox андроид. Он меня слышит.
 ```
 
-###Хороший клиент.
+### Хороший клиент.
 
 ★★★★★ ykyke, 2017-02-12
 
@@ -40,7 +40,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Всё добротно и удобно.
 ```
 
-###Норм
+### Норм
 
 ★★★★★ N0xFF, 2017-02-07
 
@@ -48,7 +48,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Хороший и приятный Tox-клиент.
 ```
 
-###На троечку
+### На троечку
 
 ★★★★☆ Kosmo134, 2017-01-19
 
@@ -57,7 +57,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 С передачей файлов явная проблема.
 ```
 
-###Неработает датчик!!
+### Неработает датчик!!
 
 ★★★★☆ Sedek2, 2016-12-24
 
@@ -69,7 +69,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Спасибо!
 ```
 
-###Шифрование
+### Шифрование
 
 ★★★★★ Nordrone, 2016-11-29
 
@@ -77,7 +77,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Наконец-то появилась серьёзная по безопасности и удобная в использовании программа! Nice guys!
 ```
 
-###excellent
+### excellent
 
 ★★★★★ weeclemans, 2016-11-07
 
@@ -85,7 +85,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 звук погромче сделайте, плохо слышно при звонках
 ```
 
-###Плохая синхронизация
+### Плохая синхронизация
 
 ★★★☆☆ ste_kd, 2016-10-29
 
@@ -93,7 +93,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Друзья не видят мои сообщения
 ```
 
-###Спасибо
+### Спасибо
 
 ★★★★★ RomaBespaleva, 2016-10-28
 
@@ -101,7 +101,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Все ок. Добавьте теперь групповые чаты
 ```
 
-###Спасибо , дождались
+### Спасибо , дождались
 
 ★★★★★ maza_killah, 2016-10-28
 
@@ -109,7 +109,7 @@ Everything works in messaging and calling between iPhones. Thank you!
 Thx !!! Great app!!!
 ```
 
-###-
+### -
 
 ★★★☆☆ Чес Балбес, 2016-10-28
 

@@ -1,4 +1,4 @@
-##Average stars: 4.69/5.0
+## Average stars: 4.69/5.0
 
 - ★★★★★ - 32
 - ★★★★☆ - 7
@@ -8,7 +8,7 @@
 
 ---
 
-###Really good could be better
+### Really good could be better
 
 ★★★★★ Yuzhe Tian, 2017-05-09, **CN**
 
@@ -16,7 +16,7 @@
 It would be better if the app has group chat function and could let the user modify bootstrap nodes.
 ```
 
-###Спасибо!
+### Спасибо!
 
 ★★★★★ N0013, 2017-05-05, **RU**
 
@@ -24,7 +24,7 @@ It would be better if the app has group chat function and could let the user mod
 Спасибо, что тратите свое время и силы на развитие этого клиента для tox. Я Вам очень благодарен. Мне приятно пользовать этой программой. Она с каждым обновлением становиться все лучше, благодаря вашим стараниям.
 ```
 
-###Love it
+### Love it
 
 ★★★★★ Mirosan H, 2017-04-03, **AU**
 
@@ -32,7 +32,7 @@ It would be better if the app has group chat function and could let the user mod
 Ppl seriously need to get on board if privacy means anything to you. This proj is technically awesome
 ```
 
-###Good app for tox.
+### Good app for tox.
 
 ★★★★★ Yuri Ph, 2017-03-28, **RU**
 
@@ -40,7 +40,7 @@ Ppl seriously need to get on board if privacy means anything to you. This proj i
 Everything works in messaging and calling between iPhones. Thank you!
 ```
 
-###Great Work
+### Great Work
 
 ★★★★★ qwertzuiopü5, 2017-03-13, **DE**
 
@@ -50,7 +50,7 @@ Great Work. Best App for secure messaging.
 Just waiting for groupchat :)
 ```
 
-###Super Chat App
+### Super Chat App
 
 ★★★★★ GilleMac, 2017-03-07, **DE**
 
@@ -58,7 +58,7 @@ Just waiting for groupchat :)
 I like the fact that it is peer to peer and focused on security. I will keep on using it and see how it develops. Keep up the good work.
 ```
 
-###Замечательно
+### Замечательно
 
 ★★★★★ Ходаковский Павел, 2017-02-16, **UA**
 
@@ -66,7 +66,7 @@ I like the fact that it is peer to peer and focused on security. I will keep on 
 Это самая лучшая замена всяким планым аналогам. Все виберы/скайпы/вацапы и прочие викрми привязанное к серверам — уже устарело.
 ```
 
-###Нормально
+### Нормально
 
 ★★★★☆ Winteriscoming23, 2017-02-14, **RU**
 
@@ -74,7 +74,7 @@ I like the fact that it is peer to peer and focused on security. I will keep on 
 Не слышно собеседника на antitox андроид. Он меня слышит.
 ```
 
-###Хороший клиент.
+### Хороший клиент.
 
 ★★★★★ ykyke, 2017-02-12, **RU**
 
@@ -82,7 +82,7 @@ I like the fact that it is peer to peer and focused on security. I will keep on 
 Всё добротно и удобно.
 ```
 
-###开视频的时候视频位置不对
+### 开视频的时候视频位置不对
 
 ★★★★☆ n2coer, 2017-02-08, **CN**
 
@@ -90,7 +90,7 @@ I like the fact that it is peer to peer and focused on security. I will keep on 
 位置不对不正，而且右边有条绿色竖线。
 ```
 
-###Норм
+### Норм
 
 ★★★★★ N0xFF, 2017-02-07, **RU**
 
@@ -98,7 +98,7 @@ I like the fact that it is peer to peer and focused on security. I will keep on 
 Хороший и приятный Tox-клиент.
 ```
 
-###Private and Secure
+### Private and Secure
 
 ★★★★☆ Dtacks, 2017-01-26, **GB**
 
@@ -123,7 +123,7 @@ Use TOX instead of Skype
 - calendar integration
 ```
 
-###На троечку
+### На троечку
 
 ★★★★☆ Kosmo134, 2017-01-19, **RU**
 
@@ -132,7 +132,7 @@ Use TOX instead of Skype
 С передачей файлов явная проблема.
 ```
 
-###Macht einen guten Eindruck
+### Macht einen guten Eindruck
 
 ★★★☆☆ Issooleider, 2017-01-04, **DE**
 
@@ -140,7 +140,7 @@ Use TOX instead of Skype
 Was allerdings ein NoGo ist, dass im Hintergrund nach 10min keine Benachrichtigung unter IOS erfolgt.
 ```
 
-###Неработает датчик!!
+### Неработает датчик!!
 
 ★★★★☆ Sedek2, 2016-12-24, **RU**
 
@@ -152,7 +152,7 @@ Was allerdings ein NoGo ist, dass im Hintergrund nach 10min keine Benachrichtigu
 Спасибо!
 ```
 
-###Great App
+### Great App
 
 ★★★★★ Giovanardo4590, 2016-12-23, **IT**
 
@@ -160,7 +160,7 @@ Was allerdings ein NoGo ist, dass im Hintergrund nach 10min keine Benachrichtigu
 💥exactly how it should be💥
 ```
 
-###Шифрование
+### Шифрование
 
 ★★★★★ Nordrone, 2016-11-29, **RU**
 
@@ -168,7 +168,7 @@ Was allerdings ein NoGo ist, dass im Hintergrund nach 10min keine Benachrichtigu
 Наконец-то появилась серьёзная по безопасности и удобная в использовании программа! Nice guys!
 ```
 
-###Best :)
+### Best :)
 
 ★★★★★ ronnicek, 2016-11-23, **CZ**
 
@@ -176,7 +176,7 @@ Was allerdings ein NoGo ist, dass im Hintergrund nach 10min keine Benachrichtigu
 Security first :)
 ```
 
-###Needs offline feature to deserve 5*
+### Needs offline feature to deserve 5*
 
 ★★★★★ ios 5 was the best, 2016-11-16, **US**
 
@@ -190,7 +190,7 @@ But I'm giving five anyway because the developer is doing his best (I'm a beta t
 However I'm hopeful that this will happen one day.
 ```
 
-###Clean and Simple
+### Clean and Simple
 
 ★★★★★ Majid0alammari, 2016-11-13, **US**
 
@@ -206,7 +206,7 @@ Here you just create a username and a password *No email or phone verification* 
 I gave AT five stars because I am optimistic about it as I said and certain that there will be updates soon enough with more features and more stability!
 ```
 
-###sehr gut
+### sehr gut
 
 ★★★★★ FormatML, 2016-11-12, **DE**
 
@@ -218,7 +218,7 @@ Was auf jeden Fall noch gemeistert werden muss ist, dass wenn die Gegenstelle ni
 Ansonsten topp 👍🏻
 ```
 
-###excellent
+### excellent
 
 ★★★★★ weeclemans, 2016-11-07, **RU**
 
@@ -226,7 +226,7 @@ Ansonsten topp 👍🏻
 звук погромче сделайте, плохо слышно при звонках
 ```
 
-###Great app
+### Great app
 
 ★★★★★ volnoboy, 2016-11-06, **US**
 
@@ -234,7 +234,7 @@ Ansonsten topp 👍🏻
 Congratulations for submitting app to AppStore.
 ```
 
-###Вау
+### Вау
 
 ★★★★★ Karatmann, 2016-11-03, **BY**
 
@@ -242,7 +242,7 @@ Congratulations for submitting app to AppStore.
 Приложение из разряда "приятная неожиданность "! Голосовые звонки на высочайшем уровне-слышимость покруче чем у известных шмибера и гавнатцапа, все очень лаконично в чате и надеюсь защита от прослушки будет на высоте-всем советую!
 ```
 
-###Плохая синхронизация
+### Плохая синхронизация
 
 ★★★☆☆ ste_kd, 2016-10-29, **RU**
 
@@ -250,7 +250,7 @@ Congratulations for submitting app to AppStore.
 Друзья не видят мои сообщения
 ```
 
-###Hi
+### Hi
 
 ★★★★☆ DimaUkraine777, 2016-10-28, **UA**
 
@@ -258,7 +258,7 @@ Congratulations for submitting app to AppStore.
 Good app thank you) waiting for push notification and multi client support
 ```
 
-###One of the best apps to ensure end-to-end encryption
+### One of the best apps to ensure end-to-end encryption
 
 ★★★★★ Makis192, 2016-10-28, **GR**
 
@@ -266,7 +266,7 @@ Good app thank you) waiting for push notification and multi client support
 Truly peer-to-peer chat with end-to-end encryption
 ```
 
-###Спасибо
+### Спасибо
 
 ★★★★★ RomaBespaleva, 2016-10-28, **RU**
 
@@ -274,7 +274,7 @@ Truly peer-to-peer chat with end-to-end encryption
 Все ок. Добавьте теперь групповые чаты
 ```
 
-###Спасибо , дождались
+### Спасибо , дождались
 
 ★★★★★ maza_killah, 2016-10-28, **RU**
 
@@ -282,7 +282,7 @@ Truly peer-to-peer chat with end-to-end encryption
 Thx !!! Great app!!!
 ```
 
-###Great app!!
+### Great app!!
 
 ★★★★★ 2cute2lv, 2016-10-28, **US**
 
@@ -290,7 +290,7 @@ Thx !!! Great app!!!
 Is and functions how it should! Thank you for letting me beta test. Thank you, for your hard work and efforts . We be used widely by smart people of the future.
 ```
 
-###-
+### -
 
 ★★★☆☆ Чес Балбес, 2016-10-28, **RU**
 

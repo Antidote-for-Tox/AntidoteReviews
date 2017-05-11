@@ -1,4 +1,4 @@
-##Average stars: 5.0/5.0
+## Average stars: 5.0/5.0
 
 - ★★★★★ - 5
 - ★★★★☆ - 0
@@ -8,7 +8,7 @@
 
 ---
 
-###Needs offline feature to deserve 5*
+### Needs offline feature to deserve 5*
 
 ★★★★★ ios 5 was the best, 2016-11-16
 
@@ -22,7 +22,7 @@ But I'm giving five anyway because the developer is doing his best (I'm a beta t
 However I'm hopeful that this will happen one day.
 ```
 
-###Clean and Simple
+### Clean and Simple
 
 ★★★★★ Majid0alammari, 2016-11-13
 
@@ -38,7 +38,7 @@ Here you just create a username and a password *No email or phone verification* 
 I gave AT five stars because I am optimistic about it as I said and certain that there will be updates soon enough with more features and more stability!
 ```
 
-###Great app
+### Great app
 
 ★★★★★ volnoboy, 2016-11-06
 
@@ -46,7 +46,7 @@ I gave AT five stars because I am optimistic about it as I said and certain that
 Congratulations for submitting app to AppStore.
 ```
 
-###Great app!!
+### Great app!!
 
 ★★★★★ 2cute2lv, 2016-10-28
 
